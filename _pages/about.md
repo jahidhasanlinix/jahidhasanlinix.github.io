@@ -11,8 +11,11 @@ I am a third-year Ph.D. student at the [Department of Computer Science](https://
 
 I am currently conducting Ph.D. research that involves leveraging machine learning and deep learning algorithms to advance microfluidic cell and biomedical research under the guidance of Dr. Nicole Hashemi at the [Hashemi Lab](https://web.me.iastate.edu/hashemi/). Concurrently, I am pursuing my Master's thesis with [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang), focusing on Oblivious RAM construction for securing data access patterns in cloud storage systems.
 
+---
+
 <span style="color:red"> 💼 I am on the academic job market! Feel free to reach out.</span>
 
+---
 
 Recent News
 ======
@@ -38,6 +41,8 @@ Recent News
 
 - [2017-20] Received NJUPT First Level Scholarship.
 
+---
+
 Teaching Experiences
 ======
 
@@ -47,10 +52,12 @@ Teaching Experiences
 
 - COMS 252 - Linux Operating System Essentials. Teaching Assistant, Fall 2021. Taught by: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
 
+---
+
 Services
 ======
 
-_Journal Reviewer_
+<span style="color:magenta"> _Journal Reviewer_ </span>
 
 - [2023] IEEE Transactions on Neural Networks and Learning Systems.
 
@@ -63,7 +70,8 @@ _Journal Reviewer_
 Media Coverage
 ======
 
-_Entrepreneurs Competition:_
+<span style="color:magenta"> _Entrepreneurs Competition:_ </span>
+
 - [2022] Finalist at the International Immigrant Entrepreneurs Summit, Iowa, USA. [WeAreIowa News](https://www.weareiowa.com/article/news/local/entrepreneurs-summit-education-immigrant-business-owners-iowa-des-moines/524-8c350764-4e40-41bd-80e5-2a9f114804aa) and [YouTube](https://www.youtube.com/watch?v=cAgYhMkLVyk)
 
 
