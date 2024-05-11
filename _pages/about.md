@@ -17,7 +17,7 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 ---
 
-Recent News
+<ins>Recent News</ins>
 ======
 - [2024] Received Teaching Excellence Award of the Year from the Department of Computer Science, ISU.
 
@@ -43,7 +43,7 @@ Recent News
 
 ---
 
-Teaching Experiences
+<ins>Teaching Experiences</ins>
 ======
 
 - COMS 352 - Introduction to Operating Systems. Teaching Assistant/Guest Lecturer, Spring 2023, Spring 2024. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee 🎊</span>
@@ -54,10 +54,10 @@ Teaching Experiences
 
 ---
 
-Services
+<ins>Services</ins>
 ======
 
-<span style="color:magenta"> _Journal Reviewer_ </span>
+<span style="color:lightskyblue"> _Journal Reviewer_ </span>
 
 - [2023] IEEE Transactions on Neural Networks and Learning Systems.
 
@@ -65,12 +65,17 @@ Services
 
 - [2022] Springer Nature: The International Journal of Information Security.
 
+
+<span style="color:lightskyblue"> _Leadership Positions_ </span>
+
+- [2022-23] Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration.
+
 ---
 
-Media Coverage
+<ins>Media Coverage</ins>
 ======
 
-<span style="color:magenta"> _Entrepreneurs Competition:_ </span>
+<span style="color:lightskyblue"> _Entrepreneurs Competition:_ </span>
 
 - [2022] Finalist at the International Immigrant Entrepreneurs Summit, Iowa, USA. [WeAreIowa News](https://www.weareiowa.com/article/news/local/entrepreneurs-summit-education-immigrant-business-owners-iowa-des-moines/524-8c350764-4e40-41bd-80e5-2a9f114804aa) and [YouTube](https://www.youtube.com/watch?v=cAgYhMkLVyk)
 
