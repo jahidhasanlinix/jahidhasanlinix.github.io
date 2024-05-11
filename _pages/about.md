@@ -41,7 +41,7 @@ Recent News
 Teaching Experiences
 ======
 
-- COMS 352 - Introduction to Operating Systems. Teaching Assistant, Spring 2023, Spring 2024. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee</span>
+- COMS 352 - Introduction to Operating Systems. Teaching Assistant/Guest Lecturer, Spring 2023, Spring 2024. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee 🎊 🎉</span>
 
 - COMS 352 - Introduction to Operating Systems. Teaching Assistant, Spring 2022, Fall 2022. Taught by: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
 
