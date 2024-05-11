@@ -1,19 +1,16 @@
 # main links links
 main:
   - title: "Research"
-    url: https://scholar.google.com/citations?user=l-ONe1oAAAAJ&hl=en
-
-  - title: "Talks"
-    url: /talks/    
+    url: https://scholar.google.com/citations?user=l-ONe1oAAAAJ&hl=en 
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Services"
+    url: /talks/2012-03-01-talk-1.md   
     
   - title: "CV"
     url: /cv/
