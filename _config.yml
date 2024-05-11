@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jahid Hasan"
+title                    : "Jahid Hasan Portfolio"
 title_separator          : "-"
 name                     : &name "Jahid Hasan"
 description              : &description "personal description"
