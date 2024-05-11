@@ -9,8 +9,33 @@ redirect_from:
 
 I am a third-year Ph.D. student at the [Department of Computer Science](https://www.cs.iastate.edu/), along with my concurrent Master's degree in Entrepreneurship at [Iowa State University](https://www.iastate.edu/). I completed my M.Eng. in Information and Communication Engineering in 2020 from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, where I was fortunate to work with Dr. Xu Minghai. 2017, I received my B.S. in Electrical and Electronic Engineering at the [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
 
+I am currently conducting Ph.D. research that involves leveraging machine learning and deep learning algorithms to advance microfluidic cell and biomedical research under the guidance of Dr. Nicole Hashemi at the [Hashemi Lab](https://web.me.iastate.edu/hashemi/). Concurrently, I am pursuing my Master's thesis with [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang), focusing on Oblivious RAM construction for securing data access patterns in cloud storage systems.
 
 <span style="color:red">💼I am on the academic job market! Feel free to reach out.</span>
+
+Recent News
+======
+- [2024] Received Teaching Excellence Award of the Year from the Department of Computer Science, ISU.
+
+- [2023] ISU National Science Foundation Innovation Corps (I-Corps) Program For Entrepreneurs hosted by NSF I-Corps Hub: Great Lakes Region
+
+- [2023] Awarded the International Scholar Business Graduate Scholarship at Ivy College of Business, ISU.
+
+- [Spring'23] Admitted to the concurrent MS in Entrepreneurship program at ISU.
+
+- [2022] Journal reviewer of Springer Nature: The International Journal of Information Security.
+
+- [Summer'22] Worked at Data Storage Lab (DSL) as a Summer Research Assistant (visitor), supervised by Dr. Mai Zheng. 
+
+- [2022-23] Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration. 
+
+- [2021] Phishing URL Classification paper is accepted to appear at IEEE GUCON.
+
+- [2021] Awarded the Graduate Teaching Assistantship position at ISU.
+
+- [2018-19] Received Nanjing Municipal Government International Student Scholarship Award.
+
+- [2017-20] Received NJUPT First Level Scholarship.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
