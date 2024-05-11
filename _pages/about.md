@@ -14,10 +14,19 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 <span style="color:red">💼I am on the academic job market! Feel free to reach out.</span>
 
 
+Teaching Experiences
+======
+
+- COMS 352 - Introduction to Operating Systems. Teaching Assistant, Spring 2023, Spring 2024. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee</span>
+
+- COMS 352 - Introduction to Operating Systems. Teaching Assistant, Spring 2022, Fall 2022. Taught by: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
+
+- COMS 252 - Linux Operating System Essentials. Teaching Assistant, Fall 2021. Taught by: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
+
 Services
 ======
 
-__Journal Reviewer__
+_Journal Reviewer_
 
 - [2023] IEEE Transactions on Neural Networks and Learning Systems.
 
@@ -29,7 +38,7 @@ __Journal Reviewer__
 Media Coverage
 ======
 
-__Entrepreneurs Competition:__
+_Entrepreneurs Competition:_
 - [2022] Finalist at the International Immigrant Entrepreneurs Summit, Iowa, USA. [WeAreIowa News](https://www.weareiowa.com/article/news/local/entrepreneurs-summit-education-immigrant-business-owners-iowa-des-moines/524-8c350764-4e40-41bd-80e5-2a9f114804aa) and [YouTube](https://www.youtube.com/watch?v=cAgYhMkLVyk)
 
 
