@@ -13,6 +13,26 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 <span style="color:red">💼I am on the academic job market! Feel free to reach out.</span>
 
+
+Services
+======
+
+__Journal Reviewer__
+
+- [2023] IEEE Transactions on Neural Networks and Learning Systems.
+
+- [2022] IEEE Transactions on Information Forensics and Security
+
+- [2022] Springer Nature: The International Journal of Information Security.
+
+
+Media Coverage
+======
+
+__Entrepreneurs Competition:__
+- [2022] Finalist at the International Immigrant Entrepreneurs Summit, Iowa, USA. [WeAreIowa News](https://www.weareiowa.com/article/news/local/entrepreneurs-summit-education-immigrant-business-owners-iowa-des-moines/524-8c350764-4e40-41bd-80e5-2a9f114804aa) and [YouTube](https://www.youtube.com/watch?v=cAgYhMkLVyk)
+
+
 Recent News
 ======
 - [2024] Received Teaching Excellence Award of the Year from the Department of Computer Science, ISU.
