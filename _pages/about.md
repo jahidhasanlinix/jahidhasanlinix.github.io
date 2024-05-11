@@ -19,27 +19,27 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 <ins>Recent News</ins>
 ======
-- [2024] Received Teaching Excellence Award of the Year from the Department of Computer Science, ISU.
+- __[2024] Received Teaching Excellence Award by the Department of Computer Science, Iowa State University__
 
 - [2023] ISU National Science Foundation Innovation Corps (I-Corps) Program For Entrepreneurs hosted by NSF I-Corps Hub: Great Lakes Region
 
-- [2023] Awarded the International Scholar Business Graduate Scholarship at Ivy College of Business, ISU.
+- [2023] Awarded the International Scholar Business Graduate Scholarship at Ivy College of Business, ISU
 
-- [Spring'23] Admitted to the concurrent MS in Entrepreneurship program at ISU.
+- [Spring'23] Admitted to the concurrent MS in Entrepreneurship program at ISU
 
-- [2022] Journal reviewer of Springer Nature: The International Journal of Information Security.
+- [2022] Journal reviewer of Springer Nature: The International Journal of Information Security
 
-- [Summer'22] Worked at Data Storage Lab (DSL) as a Summer Research Assistant (visitor), supervised by Dr. Mai Zheng. 
+- [Summer'22] Worked at Data Storage Lab (DSL) as a Summer Research Assistant (visitor), supervised by Dr. Mai Zheng
 
-- [2022-23] Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration. 
+- [2022-23] Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration 
 
-- [2021] Phishing URL Classification paper is accepted to appear at IEEE GUCON.
+- [2021] Phishing URL Classification paper is accepted to appear at IEEE GUCON
 
-- [2021] Awarded the Graduate Teaching Assistantship position at ISU.
+- [2021] Awarded the Graduate Teaching Assistantship position at ISU
 
-- [2018-19] Received Nanjing Municipal Government International Student Scholarship Award.
+- [2018-19] Received Nanjing Municipal Government International Student Scholarship Award
 
-- [2017-20] Received NJUPT First Level Scholarship.
+- [2017-20] Received NJUPT First Level Scholarship
 
 ---
 
