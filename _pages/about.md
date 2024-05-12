@@ -59,16 +59,16 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 <span style="color:lightskyblue"> _Journal Reviewer_ </span>
 
-- [2023] IEEE Transactions on Neural Networks and Learning Systems.
+- [2023] IEEE Transactions on Neural Networks and Learning Systems
 
 - [2022] IEEE Transactions on Information Forensics and Security
 
-- [2022] Springer Nature: The International Journal of Information Security.
+- [2022] Springer Nature: The International Journal of Information Security
 
 
 <span style="color:lightskyblue"> _Leadership Positions_ </span>
 
-- [2022-23] Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration.
+- [2022-23] Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration
 
 ---
 
