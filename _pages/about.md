@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at the [Department of Computer Science](https://www.cs.iastate.edu/), along with my concurrent Master's degree in Entrepreneurship at [Iowa State University](https://www.iastate.edu/). I completed my M.Eng. in Information and Communication Engineering in 2020 from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, where I was fortunate to work with Dr. Xu Minghai. 2017, I received my B.S. in Electrical and Electronic Engineering at the [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
+I am a Ph.D. student at the [Department of Computer Science](https://www.cs.iastate.edu/), along with my concurrent Master's degree in Entrepreneurship at [Iowa State University](https://www.iastate.edu/). I completed my M.Eng. in Information and Communication Engineering in 2020 from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, where I was fortunate to work with Dr. Xu Minghai. 2017, I received my B.S. in Electrical and Electronic Engineering at the [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
 
 I am currently conducting Ph.D. research that involves leveraging machine learning and deep learning algorithms to advance microfluidic cell and biomedical research under the guidance of Dr. Nicole Hashemi at the [Hashemi Lab](https://web.me.iastate.edu/hashemi/). Concurrently, I am pursuing my Master's thesis with [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang), focusing on Oblivious RAM construction for securing data access patterns in cloud storage systems.
 
@@ -17,7 +17,7 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 ---
 
-<ins>Recent News</ins>
+<ins>Recent News:</ins>
 ======
 - __[2024] Received Teaching Excellence Award by the Department of Computer Science, Iowa State University__
 
@@ -43,7 +43,7 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 ---
 
-<ins>Teaching Experiences</ins>
+<ins>Teaching Experiences:</ins>
 ======
 
 - COMS 352 - Introduction to Operating Systems. Teaching Assistant/Guest Lecturer, Spring 2023, Spring 2024. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee 🎊</span>
@@ -54,7 +54,7 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 ---
 
-<ins>Services</ins>
+<ins>Services:</ins>
 ======
 
 <span style="color:lightskyblue"> _Journal Reviewer_ </span>
@@ -72,7 +72,7 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 ---
 
-<ins>Media Coverage</ins>
+<ins>Media Coverage:</ins>
 ======
 
 <span style="color:lightskyblue"> _Entrepreneurs Competition:_ </span>
