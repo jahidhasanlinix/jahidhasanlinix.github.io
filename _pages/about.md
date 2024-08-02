@@ -19,6 +19,8 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 <ins>Recent News:</ins>
 ======
+- [2024] Excited to announce the launch of my SaaS application, __[IntelliParse](https://intelliparse.vercel.app/)__ on __[Product Hunt](https://www.producthunt.com/posts/intelliparse)__ 🎊
+
 - __[2024] Received Teaching Excellence Award by the Department of Computer Science, Iowa State University__
 
 - [2023] ISU National Science Foundation Innovation Corps (I-Corps) Program For Entrepreneurs hosted by NSF I-Corps Hub: Great Lakes Region
