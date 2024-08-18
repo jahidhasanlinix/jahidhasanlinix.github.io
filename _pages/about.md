@@ -48,11 +48,13 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 <ins>Teaching Experiences:</ins>
 ======
 
-- COMS 352 - Introduction to Operating Systems. Teaching Assistant/Guest Lecturer, Spring 2023, Spring 2024. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee 🎊</span>
+- COMS 5520 - Principles of Operating Systems. Teaching Assistant, `Fall 2024`. Taught by: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
 
-- COMS 352 - Introduction to Operating Systems. Teaching Assistant, Spring 2022, Fall 2022. Taught by: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
+- COMS 3520 - Introduction to Operating Systems. Teaching Assistant/Guest Lecturer, `Spring 2023`, `Spring 2024`. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee 🎊</span>
 
-- COMS 252 - Linux Operating System Essentials. Teaching Assistant, Fall 2021. Taught by: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
+- COMS 3520 - Introduction to Operating Systems. Teaching Assistant, `Spring 2022`, `Fall 2022`, `Fall 2024`. Taught by: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
+
+- COMS 2520 - Linux Operating System Essentials. Teaching Assistant, `Fall 2021`. Taught by: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
 
 ---
 
