@@ -19,6 +19,8 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 <ins>Recent News:</ins>
 ======
+- [2024] New Release: __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & terminal.
+
 - [2024] Excited to announce the launch of my SaaS application, __[IntelliParse](https://intelliparse.vercel.app/)__ on __[Product Hunt](https://www.producthunt.com/posts/intelliparse)__ 🎊
 
 - __[2024] Received Teaching Excellence Award by the Department of Computer Science, Iowa State University__ [Certificate](https://www.parchment.com/u/award/02f11f572a088ec890d9dc1d5bc0c1ac)
