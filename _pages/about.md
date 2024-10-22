@@ -19,6 +19,9 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 <ins>Recent News:</ins>
 ======
+- **[2024] Final MS Oral Examination**  
+Successfully completed and defended my Master's thesis on *Multi-Server Oblivious RAM Approach for Secure Cloud Storage*.
+
 - [2024] New Release: __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & terminal.
 
 - [2024] Excited to announce the launch of my SaaS application, __[IntelliParse](https://intelliparse.vercel.app/)__ on __[Product Hunt](https://www.producthunt.com/posts/intelliparse)__ 🎊
