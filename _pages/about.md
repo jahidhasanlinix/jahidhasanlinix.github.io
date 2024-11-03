@@ -68,6 +68,8 @@ Successfully completed and defended my Master's thesis on *Multi-Server Obliviou
 
 <span style="color:lightskyblue"> _Journal Reviewer_ </span>
 
+- [2024] IEEE Open Journal of the Computer Society
+
 - [2023] IEEE Transactions on Neural Networks and Learning Systems
 
 - [2022] IEEE Transactions on Information Forensics and Security
