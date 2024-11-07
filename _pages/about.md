@@ -9,7 +9,7 @@ redirect_from:
 
 I am pursuing a Ph.D. in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), with an anticipated completion date of December 2025. This program builds upon my concurrent pursuit of Master's degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), which I expect to complete this Fall 2024. I completed my M.Eng. in Information and Communication Engineering in 2020 from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, where I was fortunate to work with Dr. Xu Minghai. 2017, I received my B.S. in Electrical and Electronic Engineering at the [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
 
-I am currently conducting Ph.D. research that involves leveraging machine learning and deep learning algorithms to advance microfluidic cell and biomedical research under the guidance of Dr. Nicole Hashemi at the [Hashemi Lab](https://web.me.iastate.edu/hashemi/). Concurrently, I am pursuing my Master's thesis with [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang), focusing on Oblivious RAM construction for securing data access patterns in cloud storage systems.
+I am currently conducting Ph.D. research that involves leveraging deep learning models for photoacoustic imaging enhancement and high-resolution tomography research under the guidance of Dr. Manojit Pramanik at the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home). Concurrently, I am completed my Master's thesis with [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang), focusing on Oblivious RAM construction for securing data access patterns in cloud storage systems.
 
 ---
 
@@ -19,6 +19,8 @@ I am currently conducting Ph.D. research that involves leveraging machine learni
 
 <ins>Recent News:</ins>
 ======
+- [2024] Joined Dr. Manojit Pramanik BILab this fall'24 as a Research Assistant to conduct research on photoacoustic tomography (PAT).
+
 - **[2024] Final MS Oral Examination**  
 Successfully completed and defended my Master's thesis on *Multi-Server Oblivious RAM Approach for Secure Cloud Storage*.
 
