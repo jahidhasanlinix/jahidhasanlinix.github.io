@@ -19,6 +19,9 @@ I am currently conducting Ph.D. research that involves leveraging deep learning 
 
 <ins>Recent News:</ins>
 ======
+- **[2025] 📢 Exciting News!** 
+Our work, __"Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Images Trained With Photoacoustic Ground Truth,"__ has been accepted for a Poster Presentation at __IEEE ISBI 2025__.
+
 - [2024] Joined Dr. Manojit Pramanik BILab this fall'24 as a Research Assistant to conduct research on photoacoustic tomography (PAT).
 
 - **[2024] Final MS Oral Examination**  
