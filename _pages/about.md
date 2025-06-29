@@ -67,6 +67,7 @@ Successfully completed and defended my Master's thesis on *Multi-Server Obliviou
 - COMS 2520 - Linux Operating System Essentials. Teaching Assistant, `Fall 2021`. Taught by: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
 
 ---
+
 <ins>Featured Projects:</ins>
 ======
 
@@ -76,6 +77,7 @@ Successfully completed and defended my Master's thesis on *Multi-Server Obliviou
 
 
 ---
+
 <ins>Services:</ins>
 ======
 
