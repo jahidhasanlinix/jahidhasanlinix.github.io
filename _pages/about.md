@@ -67,7 +67,15 @@ Successfully completed and defended my Master's thesis on *Multi-Server Obliviou
 - COMS 2520 - Linux Operating System Essentials. Teaching Assistant, `Fall 2021`. Taught by: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
 
 ---
+<ins>Featured Projects:</ins>
+======
 
+- [**LLM - OS Reasoning Model**](https://huggingface.co/jahidhasan/os-reasoning-model) — Operating Systems reasoning model.
+- [**GPT-2 Inference Optimization**](https://github.com/jahidhasanlinix/gpt-2_inference_optimization) — Speeding up GPT-2 inference for production.
+- [**Refactorize SueNes Document Summarizer via Negative Sampling Using HuggingFace Transformer**](https://github.com/jahidhasanlinix/RefactorizeSueNes)
+
+
+---
 <ins>Services:</ins>
 ======
 
