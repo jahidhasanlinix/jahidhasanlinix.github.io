@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Jahid Hasan"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello, I am Jahid Hasan, currently studying a Ph.D. in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), with an anticipated completion date of May 2026. This program builds upon my dual Master's degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), which I successfully completed in Fall 2024. I completed my M.Eng. in Information and Communication Engineering in 2020 at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, where I conducted my MS thesis research under the supervision of Dr. Xu Minghai. 2017, I received my B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
+Hello, I am Jahid Hasan, currently studying a Ph.D. in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), with an anticipated completion date of May 2026. This program builds upon my dual Master's degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), which I successfully completed in Fall 2024. I did my M.Eng. in Information and Communication Engineering in 2020 at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, where I conducted my MS thesis research under the supervision of Dr. Xu Minghai. 2017, I received my B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
 
-I am currently conducting Ph.D. research under the guidance of Dr. Manojit Pramanik at the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home), focusing on leveraging deep learning models for photoacoustic imaging enhancement and high-resolution tomography. While, I have completed my Master's thesis with [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang), focusing on Oblivious RAM construction for securing data access patterns in cloud storage systems.
+I am currently conducting Ph.D. research under the guidance of Dr. Manojit Pramanik at the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home), focusing on building deep learning framework for ultrasound photoacoustic imaging ground truth. While, I have completed my Master's thesis with [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang), focusing on Oblivious RAM construction for securing data access patterns in cloud storage systems.
 
 ---
 
@@ -20,7 +20,7 @@ I am currently conducting Ph.D. research under the guidance of Dr. Manojit Prama
 <ins>Recent News:</ins>
 ======
 - **[2025] 📢 Exciting News!** 
-Our work, __"Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Images Trained With Photoacoustic Ground Truth,"__ has been accepted for a Poster Presentation at __International Symposium on Biomedical Imaging (ISBI), Houston, TX, April 2025__ [Conference Presentations Link](https://www.bilab2012.com/publications).
+Our work, __"Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Images Trained With Photoacoustic Ground Truth,"__ has been accepted for a Poster Presentation at __IEEE International Symposium on Biomedical Imaging (ISBI), Houston, TX, April 2025__ [Conference Presentations Link](https://www.bilab2012.com/publications).
 
 - [2024] Joined Dr. Manojit Pramanik BILab this fall'24 as a Research Assistant to conduct research on photoacoustic tomography (PAT).
 
@@ -28,8 +28,6 @@ Our work, __"Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Im
 Successfully completed and defended my Master's thesis on *Multi-Server Oblivious RAM Approach for Secure Cloud Storage*.
 
 - [2024] New Release: __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & terminal.
-
-- [2024] Excited to announce the launch of my SaaS application, __[IntelliParse](https://intelliparse.vercel.app/)__ on __[Product Hunt](https://www.producthunt.com/posts/intelliparse)__ 🎊
 
 - __[2024] Received Teaching Excellence Award by the Department of Computer Science, Iowa State University__ [Certificate](https://www.parchment.com/u/award/02f11f572a088ec890d9dc1d5bc0c1ac)
 
@@ -60,7 +58,7 @@ Successfully completed and defended my Master's thesis on *Multi-Server Obliviou
 
 - COMS 5520 - Principles of Operating Systems. Teaching Assistant, `Fall 2024`. Taught by: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
 
-- COMS 3520 - Introduction to Operating Systems. Teaching Assistant/Guest Lecturer, `Spring 2023`, `Spring 2024`. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee 🎊</span>
+- COMS 3520 - Introduction to Operating Systems. Teaching Assistant/Guest Lecturer, `Spring 2023`, `Spring 2024`, `Spring 2025`. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee 🎊</span>
 
 - COMS 3520 - Introduction to Operating Systems. Teaching Assistant, `Spring 2022`, `Fall 2022`, `Fall 2024`. Taught by: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
 
