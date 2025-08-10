@@ -22,7 +22,7 @@ I am currently pursuing my Ph.D. research under the guidance of Dr. Manojit Pram
 - **[2025] 🔔 Update:** 
 Our paper, *"ASCENT+: Deep Learning for Ultrasound Needle Tracking Using Photoacoustic Ground Truth"*, is under review at the __IEEE Transactions on Medical Imaging (TMI)__, 2025.
 
-- [2025] Our abstract, *"Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Images Trained With Photoacoustic Ground Truth"*, has been accepted for a Poster Presentation at the __IEEE International Symposium on Biomedical Imaging (ISBI), Houston, TX, April 2025__ [Conference Presentations Link](https://www.bilab2012.com/publications).
+- [2025] Our abstract, *"Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Images Trained With Photoacoustic Ground Truth"*, has been accepted for a Poster Presentation at the __IEEE International Symposium on Biomedical Imaging (ISBI)__, Houston, TX, April 2025. [Conference Presentations Link](https://www.bilab2012.com/publications).
 
 - [2024] Joined Dr. Manojit Pramanik’s BiLab in Fall ’24 as a Research Assistant, focusing on medical imaging research.
 
