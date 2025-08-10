@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Jahid Hasan, currently studying a Ph.D. in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), with an anticipated completion date of May 2026. This program builds upon my dual Master's degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), which I successfully completed in Fall 2024. I did my M.Eng. in Information and Communication Engineering in 2020 at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, where I conducted my MS thesis research under the supervision of Dr. Xu Minghai. 2017, I received my B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
+Hello, I am Jahid Hasan, a Ph.D. student in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), expected to graduate in May 2026. I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), and an M.Eng. in Information and Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China. I received my B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
 
-I am currently conducting Ph.D. research under the guidance of Dr. Manojit Pramanik at the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home), focusing on building deep learning framework for ultrasound photoacoustic imaging ground truth. While, I have completed my Master's thesis with [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang), focusing on Oblivious RAM construction for securing data access patterns in cloud storage systems.
+I am currently pursuing my Ph.D. research under the guidance of Dr. Manojit Pramanik at the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home), where I focus on applying deep learning techniques for ground truth reconstruction of ultrasound photoacoustic tomography (PAI) images. While, I have completed my Master's thesis with [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang), focusing on Oblivious RAM construction for securing data access patterns in cloud storage systems.
 
 ---
 
@@ -24,7 +24,7 @@ Our paper, *"ASCENT+: Deep Learning for Ultrasound Needle Tracking Using Photoac
 
 - [2025] Our abstract, *"Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Images Trained With Photoacoustic Ground Truth"*, has been accepted for a Poster Presentation at the __IEEE International Symposium on Biomedical Imaging (ISBI), Houston, TX, April 2025__ [Conference Presentations Link](https://www.bilab2012.com/publications).
 
-- [2024] Joined Dr. Manojit Pramanik BiLab this fall'24 as a Research Assistant to conduct research on photoacoustic tomography (PAT).
+- [2024] Joined Dr. Manojit Pramanik’s BiLab in Fall ’24 as a Research Assistant, focusing on medical imaging research.
 
 - **[2024] Final MS Oral Examination**  
 Successfully completed and defended my Master's thesis on *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*.
