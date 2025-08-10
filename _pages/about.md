@@ -19,15 +19,15 @@ I am currently conducting Ph.D. research under the guidance of Dr. Manojit Prama
 
 <ins>Recent News:</ins>
 ======
-- **[2025] 🔔 Update** 
-Our work, *ASCENT+: Deep Learning for Ultrasound Needle Tracking Using Photoacoustic Ground Truth*, is under review at __IEEE Transactions on Medical Imaging (TMI)__, 2025.
+- **[2025] 🔔 Update:** 
+Our paper, *"ASCENT+: Deep Learning for Ultrasound Needle Tracking Using Photoacoustic Ground Truth"*, is under review at the __IEEE Transactions on Medical Imaging (TMI)__, 2025.
 
-- [2025] Our work, *Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Images Trained With Photoacoustic Ground Truth*, has been accepted for a Poster Presentation at __IEEE International Symposium on Biomedical Imaging (ISBI), Houston, TX, April 2025__ [Conference Presentations Link](https://www.bilab2012.com/publications).
+- [2025] Our abstract, *"Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Images Trained With Photoacoustic Ground Truth"*, has been accepted for a Poster Presentation at the __IEEE International Symposium on Biomedical Imaging (ISBI), Houston, TX, April 2025__ [Conference Presentations Link](https://www.bilab2012.com/publications).
 
-- [2024] Joined Dr. Manojit Pramanik BILab this fall'24 as a Research Assistant to conduct research on photoacoustic tomography (PAT).
+- [2024] Joined Dr. Manojit Pramanik BiLab this fall'24 as a Research Assistant to conduct research on photoacoustic tomography (PAT).
 
 - **[2024] Final MS Oral Examination**  
-Successfully completed and defended my Master's thesis on *Multi-Server Oblivious RAM Approach for Secure Cloud Storage*.
+Successfully completed and defended my Master's thesis on *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*.
 
 - [2024] New Release: __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & terminal.
 
