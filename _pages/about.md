@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, I am Jahid Hasan, a Ph.D. student in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), expected to graduate in May 2026. I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), and an M.Eng. in Information and Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China. I received my B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
 
-I am currently pursuing my Ph.D. research under the guidance of Dr. Manojit Pramanik at the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home), where I focus on applying deep learning techniques for ground truth reconstruction of ultrasound photoacoustic tomography (PAI) images. While, I have completed my Master's thesis with [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang), focusing on Oblivious RAM construction for securing data access patterns in cloud storage systems.
+I am currently pursuing my Ph.D. research under the guidance of Dr. Manojit Pramanik at the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home), where I focus on applying deep learning techniques for ground truth reconstruction of ultrasound photoacoustic tomography (PAI) images. I completed my Master's thesis, titled *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*, under the supervision of [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang).
 
 ---
 
@@ -58,11 +58,11 @@ Successfully completed and defended my Master's thesis on *"Multi-Server Oblivio
 <ins>Teaching Experiences:</ins>
 ======
 
-- COMS 5520 - Principles of Operating Systems. Teaching Assistant, `Fall 2024`. Taught by: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
-
 - COMS 3520 - Introduction to Operating Systems. Teaching Assistant/Guest Lecturer, `Spring 2023`, `Spring 2024`, `Spring 2025`. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee 🎊</span>
 
 - COMS 3520 - Introduction to Operating Systems. Teaching Assistant, `Spring 2022`, `Fall 2022`, `Fall 2024`. Taught by: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
+
+- COMS 5520 - Principles of Operating Systems. Teaching Assistant, `Fall 2024`. Taught by: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
 
 - COMS 2520 - Linux Operating System Essentials. Teaching Assistant, `Fall 2021`. Taught by: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
 
