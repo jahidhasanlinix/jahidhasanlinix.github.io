@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Jahid Hasan, a Ph.D. student in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), expected to graduate in May 2026. I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), and an M.Eng. in Information and Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China. I received my B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
+Hello, I am Jahid Hasan, a Ph.D. student in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), expected to graduate in August 2026. I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), and an M.Eng. in Information and Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China. I received my B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
 
 I am currently pursuing my Ph.D. research under the guidance of Dr. Manojit Pramanik at the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home), where I focus on applying deep learning techniques for ground truth reconstruction of ultrasound photoacoustic tomography (PAI) images. I completed my Master's thesis, titled *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*, under the supervision of [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang).
 
@@ -60,7 +60,7 @@ Successfully completed and defended my Master's thesis on *"Multi-Server Oblivio
 
 - COMS 3520 - Introduction to Operating Systems. Teaching Assistant/Guest Lecturer, `Spring 2023`, `Spring 2024`, `Spring 2025`. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee 🎊</span>
 
-- COMS 3520 - Introduction to Operating Systems. Teaching Assistant, `Spring 2022`, `Fall 2022`, `Fall 2024`. Taught by: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
+- COMS 3520 - Introduction to Operating Systems. Teaching Assistant, `Spring 2022`, `Fall 2022`, `Fall 2024`, `Fall 2025`. Taught by: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
 
 - COMS 5520 - Principles of Operating Systems. Teaching Assistant, `Fall 2024`. Taught by: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
 
@@ -70,10 +70,11 @@ Successfully completed and defended my Master's thesis on *"Multi-Server Oblivio
 
 <ins>Featured Projects:</ins>
 ======
-
+- [**RL Eval Platform**](https://huggingface.co/jahidhasan/os-reasoning-model) — Open-source RL environment and eval framework for computer use agents.
 - [**LLM - OS Reasoning Model**](https://huggingface.co/jahidhasan/os-reasoning-model) — Operating Systems reasoning model.
 - [**GPT-2 Inference Optimization**](https://github.com/jahidhasanlinix/gpt-2_inference_optimization) — Speeding up GPT-2 inference for production.
-- [**Refactorize SueNes Document Summarizer via Negative Sampling Using HuggingFace Transformer**](https://github.com/jahidhasanlinix/RefactorizeSueNes)
+- [**SwarmSync SDK**](https://github.com/jukto-ai/SwarmSync-SDK) — Open-source collaborative AI agent swarms for autonomous task synchronization.
+- [**Refactorize SueNes**](https://github.com/jahidhasanlinix/RefactorizeSueNes) - Document Summarizer via Negative Sampling Using HuggingFace Transformer.
 
 
 ---
@@ -82,6 +83,8 @@ Successfully completed and defended my Master's thesis on *"Multi-Server Oblivio
 ======
 
 <span style="color:lightskyblue"> _Journal Reviewer_ </span>
+
+- [2025] Journal of Biomedical Optics, SPIE
 
 - [2024] IEEE Open Journal of the Computer Society
 
