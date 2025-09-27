@@ -70,7 +70,7 @@ Successfully completed and defended my Master's thesis on *"Multi-Server Oblivio
 
 <ins>Featured Projects:</ins>
 ======
-- [**RL Eval Platform**](https://huggingface.co/jahidhasan/os-reasoning-model) — Open-source RL environment and eval framework for computer use agents.
+- [**RL Eval Platform**](https://github.com/jahidhasanlinix/buckeye-python) — Open-source RL environment and eval framework for computer use agents.
 - [**LLM - OS Reasoning Model**](https://huggingface.co/jahidhasan/os-reasoning-model) — Operating Systems reasoning model.
 - [**GPT-2 Inference Optimization**](https://github.com/jahidhasanlinix/gpt-2_inference_optimization) — Speeding up GPT-2 inference for production.
 - [**SwarmSync SDK**](https://github.com/jukto-ai/SwarmSync-SDK) — Open-source collaborative AI agent swarms for autonomous task synchronization.
