@@ -20,42 +20,42 @@ I am currently pursuing my Ph.D. research under the guidance of Dr. Manojit Pram
 <ins>Recent News:</ins>
 ======
 - **[2025] 🔔 Update:** 
-Our paper, *"ASCENT+: Deep Learning for Ultrasound Needle Tracking Using Photoacoustic Ground Truth"*, is under review at the __IEEE Transactions on Image Processing (TIP)__, 2025.
+Our paper, *"ASCENT+: Deep Learning for Ultrasound Needle Tracking Using Photoacoustic Ground Truth"*, is under review at the __IEEE Transactions on Image Processing (TIP)__, 2025
 
-- [2025] Our abstract, *"Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Images Trained With Photoacoustic Ground Truth"*, has been accepted for a Poster Presentation at the __IEEE International Symposium on Biomedical Imaging (ISBI)__, Houston, TX, April 2025. [Conference Presentations Link](https://www.bilab2012.com/publications).
+- **[2025]** Our abstract, *"Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Images Trained With Photoacoustic Ground Truth"*, has been accepted for a Poster Presentation at the __IEEE International Symposium on Biomedical Imaging (ISBI)__, Houston, TX, April 2025. [Conference Presentations Link](https://www.bilab2012.com/publications)
 
-- [2024] Joined Dr. Manojit Pramanik’s BiLab in Fall ’24 as a Research Assistant, focusing on medical imaging research.
+- **[2024]** Joined Dr. Manojit Pramanik’s [BiLab](https://www.bilab2012.com/home) in Fall ’24 as a Research Assistant, focusing on medical imaging research
 
 - **[2024] Final MS Oral Examination**  
-Successfully completed and defended my Master's thesis on *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*.
+Successfully completed and defended my Master's thesis on *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*
 
-- [2024] New Release: __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & terminal.
+- **[2024]** New Release: __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & terminal
 
-- __[2024] Received Teaching Excellence Award by the Department of Computer Science, Iowa State University__ [Certificate](https://www.parchment.com/u/award/02f11f572a088ec890d9dc1d5bc0c1ac)
+- **[2024]** Received Teaching Excellence Award by the Department of Computer Science, Iowa State University [Certificate](https://www.parchment.com/u/award/02f11f572a088ec890d9dc1d5bc0c1ac)
 
-- [2023] ISU National Science Foundation Innovation Corps (I-Corps) Program For Entrepreneurs hosted by NSF I-Corps Hub: Great Lakes Region
+- **[2023]** ISU National Science Foundation Innovation Corps (I-Corps) Program For Entrepreneurs hosted by NSF I-Corps Hub: Great Lakes Region
 
-- [2023] Awarded the International Scholar Business Graduate Scholarship at Ivy College of Business, ISU
+- **[2023]** Awarded the International Scholar Business Graduate Scholarship at Ivy College of Business, ISU
 
-- [Spring'23] Admitted to the concurrent MS in Entrepreneurship program at ISU
+- **[2023]** Admitted to the concurrent MS in Entrepreneurship program at ISU
 
-- [2022] Journal reviewer of Springer Nature: The International Journal of Information Security
+- **[2022]** Journal reviewer of Springer Nature: The International Journal of Information Security
 
-- [Summer'22] Worked at Data Storage Lab (DSL) as a Summer Research Assistant (visitor), supervised by Dr. Mai Zheng
+- **[2022]** Worked at Data Storage Lab (DSL) as a Summer Research Assistant (visitor), supervised by Dr. Mai Zheng
 
-- [2022-23] Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration 
+- **[2022-23]** Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration 
 
-- [2021] Phishing URL Classification paper is accepted to appear at IEEE GUCON
+- **[2021]** "Phishing URL Classification Analysis Using ANN Algorithm," __2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON)__, Kuala Lumpur, Malaysia, 2021
 
-- [2021] Awarded the Graduate Teaching Assistantship position at ISU
+- **[2021]** Awarded the Graduate Teaching Assistantship position at ISU
 
-- [2018-19] Received Nanjing Municipal Government International Student Scholarship Award
+- **[2018-19]** Received Nanjing Municipal Government International Student Scholarship Award
 
-- [2017-20] Received NJUPT First Level Scholarship
+- **[2017-20]** Received NJUPT First Level Scholarship
 
 ---
 
-<ins>Teaching Experiences:</ins>
+<ins>Teaching:</ins>
 ======
 
 - COMS 3520 - Introduction to Operating Systems. Teaching Assistant/Guest Lecturer, `Spring 2023`, `Spring 2024`, `Spring 2025`. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee 🎊</span>
@@ -68,7 +68,7 @@ Successfully completed and defended my Master's thesis on *"Multi-Server Oblivio
 
 ---
 
-<ins>Featured Projects:</ins>
+<ins>Featured Open-Source Projects:</ins>
 ======
 - [**RL Eval Platform**](https://github.com/jahidhasanlinix/buckeye-python) — Open-source RL environment and eval framework for computer use agents.
 - [**LLM - OS Reasoning Model**](https://huggingface.co/jahidhasan/os-reasoning-model) — Operating Systems reasoning model.
@@ -84,15 +84,15 @@ Successfully completed and defended my Master's thesis on *"Multi-Server Oblivio
 
 <span style="color:lightskyblue"> _Journal Reviewer_ </span>
 
-- [2025] Journal of Biomedical Optics, SPIE
+- **[2025]** Journal of Biomedical Optics, SPIE
 
-- [2024] IEEE Open Journal of the Computer Society
+- **[2024]** IEEE Open Journal of the Computer Society
 
-- [2023] IEEE Transactions on Neural Networks and Learning Systems
+- **[2023]** IEEE Transactions on Neural Networks and Learning Systems
 
-- [2022] IEEE Transactions on Information Forensics and Security
+- **[2022]** IEEE Transactions on Information Forensics and Security
 
-- [2022] Springer Nature: The International Journal of Information Security
+- **[2022]** Springer Nature: The International Journal of Information Security
 
 
 <span style="color:lightskyblue"> _Leadership Positions_ </span>
