@@ -27,7 +27,7 @@ Our paper, *"ASCENT+: Deep Learning for Ultrasound Needle Tracking Using Photoac
 - **[2024]** Joined Dr. Manojit Pramanik’s [BiLab](https://www.bilab2012.com/home) in Fall ’24 as a Research Assistant, focusing on medical imaging research
 
 - **[2024] Final MS Oral Examination**  
-Successfully completed and defended my Master's thesis on *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*
+Successfully completed and defended my Master's thesis on *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*. [Link](https://www.proquest.com/openview/486a472e34c34bdb363bc04aedcae1f3/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 - **[2024]** New Release: __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & terminal
 
