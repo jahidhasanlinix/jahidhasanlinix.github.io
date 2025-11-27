@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Jahid Hasan, a Ph.D. candidate in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/) (expected Summer 2026), where my research lies at the intersection of deep learning, computer vision, foundation models, and medical imaging (specializing in sinogram-to-image reconstruction for ultrasound and photoacoustic tomography).
+I am Jahid Hasan, a Ph.D. candidate in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/) (expected Summer 2026), advised by [Dr. Manojit Pramanik](https://www.engineering.iastate.edu/people/profile/mano/) in the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home). My research develops deep learning and foundation models for computational medical imaging, specializing in sinogram-to-image reconstruction for ultrasound and photoacoustic tomography. Previously, my M.S. thesis developed a high-performance multi-server Oblivious RAM (ORAM) system for secure cloud storage advised by [Dr. Wensheng Zhang](https://www.cs.iastate.edu/people/wensheng-zhang).
 
-I am advised by Dr. Manojit Pramanik in the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home). I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), an M.Eng. in Information and Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, and a B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
+I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), an M.Eng. in Information and Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, and a B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
 
 ---
 
