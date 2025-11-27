@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Jahid Hasan, a Ph.D. student in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), expected to graduate in August 2026. I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), and an M.Eng. in Information and Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China. I received my B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
+I am Jahid Hasan, a Ph.D. candidate in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/) (expected Summer 2026), where my research lies at the intersection of deep learning, computer vision, foundation models, and medical imaging (specializing in sinogram-to-image reconstruction for ultrasound and photoacoustic tomography).
 
-I am currently pursuing my Ph.D. research under the guidance of Dr. Manojit Pramanik at the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home), where I focus on applying deep learning techniques for ground truth reconstruction of ultrasound photoacoustic tomography (PAI) images. I completed my Master's thesis, titled *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*, under the supervision of [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang).
+I am advised by Dr. Manojit Pramanik in the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home). I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), an M.Eng. in Information and Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, and a B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
 
 ---
 
@@ -26,7 +26,7 @@ Our paper, *"ASCENT+: Deep Learning for Ultrasound Needle Tracking Using Photoac
 
 - **[2024]** Joined Dr. Manojit Pramanik’s [BiLab](https://www.bilab2012.com/home) in Fall ’24 as a Research Assistant, focusing on medical imaging research
 
-- **[2024] Final MS Oral Examination**  
+- **[2024] 🎓 Final MS Oral Examination**  
 Successfully completed and defended my Master's thesis on *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*. [Link](https://www.proquest.com/openview/486a472e34c34bdb363bc04aedcae1f3/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 - **[2024]** New Release: __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & terminal
@@ -35,23 +35,11 @@ Successfully completed and defended my Master's thesis on *"Multi-Server Oblivio
 
 - **[2023]** ISU National Science Foundation Innovation Corps (I-Corps) Program For Entrepreneurs hosted by NSF I-Corps Hub: Great Lakes Region
 
-- **[2023]** Awarded the International Scholar Business Graduate Scholarship at Ivy College of Business, ISU
-
-- **[2023]** Admitted to the concurrent MS in Entrepreneurship program at ISU
-
-- **[2022]** Journal reviewer of Springer Nature: The International Journal of Information Security
-
 - **[2022]** Worked at Data Storage Lab (DSL) as a Summer Research Assistant (visitor), supervised by Dr. Mai Zheng
 
 - **[2022-23]** Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration 
 
 - **[2021]** "Phishing URL Classification Analysis Using ANN Algorithm," __2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON)__, Kuala Lumpur, Malaysia, 2021
-
-- **[2021]** Awarded the Graduate Teaching Assistantship position at ISU
-
-- **[2018-19]** Received Nanjing Municipal Government International Student Scholarship Award
-
-- **[2017-20]** Received NJUPT First Level Scholarship
 
 ---
 
