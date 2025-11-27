@@ -39,6 +39,8 @@ Successfully completed and defended my Master's thesis on *"Multi-Server Oblivio
 
 - **[2022-23]** Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration 
 
+- **[2021]** "2nd Place (of 10 teams), Sp00ky CTF Competition hosted by [The Information Assurance Student Group (IASG)](https://iasg.github.io/), Center for Cybersecurity Innovation & Outreach at Iowa State University
+
 - **[2021]** "Phishing URL Classification Analysis Using ANN Algorithm," __2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON)__, Kuala Lumpur, Malaysia, 2021
 
 ---
