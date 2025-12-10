@@ -21,8 +21,7 @@ I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/
 ======
 - **[2025]** One abstract submitted to __Optica Biophotonics Congress 2025__, Fort Lauderdale, FL. [Conference](https://www.optica.org/events/congress/biophotonics_congress/submit_papers/)
 
-- **[2025] 🔔 Update:** 
-One paper under review at __IEEE Transactions on Image Processing (TIP) 2025__. [Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+- **[2025] One paper under review at __IEEE Transactions on Image Processing (TIP) 2025__. [Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 
 - **[2025]** One accepted for poster presentation at __IEEE International Symposium on Biomedical Imaging (ISBI) 2025__, Houston, TX. [Conference](https://www.bilab2012.com/publications)
 
@@ -33,7 +32,7 @@ Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for S
 
 - **[2024]** Released open-source package __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & CLI
 
-- **[2024]** Received __Teaching Excellence Award__, Department of Computer Science, Iowa State University [Certificate](https://www.parchment.com/u/award/02f11f572a088ec890d9dc1d5bc0c1ac)
+- **[2024]** Received __Top Teaching Excellence Award__, Department of Computer Science, Iowa State University [Certificate](https://www.parchment.com/u/award/02f11f572a088ec890d9dc1d5bc0c1ac)
 
 - **[2023]** Participated in NSF I-Corps Great Lakes Hub Program (entrepreneurial training)
 
@@ -50,21 +49,21 @@ Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for S
 <ins>Teaching:</ins>
 ======
 
-- **Introduction to Operating Systems** (COM S 352)  
-  Teaching Assistant & Guest Lecturer – Spring 2023, Spring 2024, Spring 2025  
+- **Introduction to Operating Systems** (COMS 3520)  
+  Teaching Assistant & Guest Lecturer – Spring'23, Spring'24, Spring'25  
   Instructor: [Dr. Wensheng Zhang](https://www.cs.iastate.edu/wzhang)  
-  → Received **Department Teaching Excellence Award** for this course
+  → Received **Department Top Teaching Excellence Award** for this course
 
-- **Introduction to Operating Systems** (COM S 352)  
-  Teaching Assistant – Fall 2024, Spring 2022, Fall 2022  
+- **Introduction to Operating Systems** (COMS 3520)  
+  Teaching Assistant – Spring'22, Fall'22, Fall'24, Fall'25  
   Instructor: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
 
-- **Principles of Operating Systems** (COM S 552 – Graduate level)  
-  Teaching Assistant – Fall 2024  
+- **Principles of Operating Systems** (COMS 5520 – Graduate level)  
+  Teaching Assistant – Fall'24  
   Instructor: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
 
-- **Linux Operating System Essentials** (COM S 252)  
-  Teaching Assistant – Fall 2021  
+- **Linux Operating System Essentials** (COMS 2520)  
+  Teaching Assistant – Fall'21  
   Instructor: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
 
 ---
@@ -98,7 +97,7 @@ Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for S
 
 <span style="color:lightskyblue"> _Leadership Positions_ </span>
 
-- [2022-23] Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration
+- [2022-23] Faculty Senator (elected), Computer Science Graduate Student Organization (CSGSO), Iowa State University
 
 ---
 
