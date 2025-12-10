@@ -19,42 +19,53 @@ I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/
 
 <ins>Recent News:</ins>
 ======
+- **[2025]** One abstract submitted to __Optica Biophotonics Congress 2025__, Fort Lauderdale, FL. [Conference](https://www.optica.org/events/congress/biophotonics_congress/submit_papers/)
+
 - **[2025] 🔔 Update:** 
-Our paper, *"ASCENT+: Deep Learning for Ultrasound Needle Tracking Using Photoacoustic Ground Truth"*, is under review at the __IEEE Transactions on Image Processing (TIP)__, 2025
+One paper under review at __IEEE Transactions on Image Processing (TIP) 2025__. [Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 
-- **[2025]** Our abstract, *"Ascent+: Deep Learning for Precise Needle Tracking on Ultrasound Images Trained With Photoacoustic Ground Truth"*, has been accepted for a Poster Presentation at the __IEEE International Symposium on Biomedical Imaging (ISBI)__, Houston, TX, April 2025. [Conference Presentations Link](https://www.bilab2012.com/publications)
+- **[2025]** One accepted for poster presentation at __IEEE International Symposium on Biomedical Imaging (ISBI) 2025__, Houston, TX. [Conference](https://www.bilab2012.com/publications)
 
-- **[2024]** Joined Dr. Manojit Pramanik’s [BiLab](https://www.bilab2012.com/home) in Fall ’24 as a Research Assistant, focusing on medical imaging research
+- **[2024]** Joined [BiLab](https://www.bilab2012.com/home) at Iowa State University as a Research Assistant under Dr. Manojit Pramanik (medical ultrasound & photoacoustic imaging)
 
 - **[2024] 🎓 Final MS Oral Examination**  
-Successfully completed and defended my Master's thesis on *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*. [Link](https://www.proquest.com/openview/486a472e34c34bdb363bc04aedcae1f3/1?pq-origsite=gscholar&cbl=18750&diss=y)
+Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*. [Thesis Link](https://www.proquest.com/openview/486a472e34c34bdb363bc04aedcae1f3/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
-- **[2024]** New Release: __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & terminal
+- **[2024]** Released open-source package __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & CLI
 
-- **[2024]** Received Teaching Excellence Award by the Department of Computer Science, Iowa State University [Certificate](https://www.parchment.com/u/award/02f11f572a088ec890d9dc1d5bc0c1ac)
+- **[2024]** Received __Teaching Excellence Award__, Department of Computer Science, Iowa State University [Certificate](https://www.parchment.com/u/award/02f11f572a088ec890d9dc1d5bc0c1ac)
 
-- **[2023]** ISU National Science Foundation Innovation Corps (I-Corps) Program For Entrepreneurs hosted by NSF I-Corps Hub: Great Lakes Region
+- **[2023]** Participated in NSF I-Corps Great Lakes Hub Program (entrepreneurial training)
 
-- **[2022]** Worked at Data Storage Lab (DSL) as a Summer Research Assistant (visitor), supervised by Dr. Mai Zheng
+- **[2022]** Summer Research Assistant, Data Storage Lab (DSL), Iowa State University (Prof. Mai Zheng)
 
-- **[2022-23]** Former Faculty Senator Officer of the Computer Science Graduate Student Organization (CSGSO) Administration 
+- **[2022-23]** Elected Faculty Senator, Computer Science Graduate Student Organization (CSGSO) 
 
-- **[2021]** "2nd Place (of 10 teams), Sp00ky CTF Competition hosted by [The Information Assurance Student Group (IASG)](https://iasg.github.io/), Center for Cybersecurity Innovation & Outreach at Iowa State University
+- **[2021]** "2nd Place (of 10 teams), Sp00ky CTF hackathon hosted by [The Information Assurance Student Group (IASG)](https://iasg.github.io/), Center for Cybersecurity Innovation & Outreach at Iowa State University
 
-- **[2021]** "Phishing URL Classification Analysis Using ANN Algorithm," __2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON)__, Kuala Lumpur, Malaysia, 2021
+- **[2021]** One paper accepted to __IEEE GUCON 2021__, Kuala Lumpur, Malaysia
 
 ---
 
 <ins>Teaching:</ins>
 ======
 
-- COMS 3520 - Introduction to Operating Systems. Teaching Assistant/Guest Lecturer, `Spring 2023`, `Spring 2024`, `Spring 2025`. Taught by: [Dr. Zhang Wensheng](https://www.cs.iastate.edu/wzhang) <span style="color:red">Top Teaching Excellence Awardee 🎊</span>
+- **Introduction to Operating Systems** (COM S 352)  
+  Teaching Assistant & Guest Lecturer – Spring 2023, Spring 2024, Spring 2025  
+  Instructor: [Dr. Wensheng Zhang](https://www.cs.iastate.edu/wzhang)  
+  → Received **Department Teaching Excellence Award** for this course
 
-- COMS 3520 - Introduction to Operating Systems. Teaching Assistant, `Spring 2022`, `Fall 2022`, `Fall 2024`, `Fall 2025`. Taught by: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
+- **Introduction to Operating Systems** (COM S 352)  
+  Teaching Assistant – Fall 2024, Spring 2022, Fall 2022  
+  Instructor: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
 
-- COMS 5520 - Principles of Operating Systems. Teaching Assistant, `Fall 2024`. Taught by: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
+- **Principles of Operating Systems** (COM S 552 – Graduate level)  
+  Teaching Assistant – Fall 2024  
+  Instructor: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
 
-- COMS 2520 - Linux Operating System Essentials. Teaching Assistant, `Fall 2021`. Taught by: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
+- **Linux Operating System Essentials** (COM S 252)  
+  Teaching Assistant – Fall 2021  
+  Instructor: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
 
 ---
 
