@@ -19,7 +19,7 @@ I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/
 
 <ins>Recent News:</ins>
 ======
-- **[2025]**h One abstract submitted to __Optica Biophotonics Congress 2025__, Fort Lauderdale, FL. [Conference](https://www.optica.org/events/congress/biophotonics_congress/submit_papers/)
+- **[2025]** One abstract submitted to __Optica Biophotonics Congress 2025__, Fort Lauderdale, FL. [Conference](https://www.optica.org/events/congress/biophotonics_congress/submit_papers/)
 
 - **[2025]** One paper under review at __IEEE Transactions on Image Processing (TIP) 2025__. [Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 
