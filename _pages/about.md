@@ -23,7 +23,7 @@ I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/
 
 - **[2025]** One paper under review at __IEEE Transactions on Image Processing (TIP) 2025__. [Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 
-- **[2025]** One accepted for poster presentation at __IEEE International Symposium on Biomedical Imaging (ISBI) 2025__, Houston, TX. [Conference](https://www.bilab2012.com/publications)
+- **[2025]** One abstract accepted for poster presentation at __IEEE International Symposium on Biomedical Imaging (ISBI) 2025__, Houston, TX. [Conference](https://www.bilab2012.com/publications)
 
 - **[2024]** Joined [BiLab](https://www.bilab2012.com/home) at Iowa State University as a Research Assistant under Dr. Manojit Pramanik (medical ultrasound & photoacoustic imaging)
 
