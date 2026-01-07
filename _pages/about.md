@@ -49,12 +49,16 @@ Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for S
 <ins>Teaching:</ins>
 ======
 
-- **Introduction to Operating Systems** (COMS 3520)  
+- **Introduction to Operating Systems** (COMS 3520 – Undergraduate level)  
+  Teaching Assistant – Spring'26  
+  Instructor: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
+
+- **Introduction to Operating Systems** (COMS 3520 – Undergraduate level)  
   Teaching Assistant & Guest Lecturer – Spring'23, Spring'24, Spring'25  
   Instructor: [Dr. Wensheng Zhang](https://www.cs.iastate.edu/wzhang)  
   → Received **Department Top Teaching Excellence Award** for this course
 
-- **Introduction to Operating Systems** (COMS 3520)  
+- **Introduction to Operating Systems** (COMS 3520 – Undergraduate level)  
   Teaching Assistant – Spring'22, Fall'22, Fall'24, Fall'25  
   Instructor: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
 
@@ -62,7 +66,7 @@ Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for S
   Teaching Assistant – Fall'24  
   Instructor: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
 
-- **Linux Operating System Essentials** (COMS 2520)  
+- **Linux Operating System Essentials** (COMS 2520 – Undergraduate level)  
   Teaching Assistant – Fall'21  
   Instructor: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
 
