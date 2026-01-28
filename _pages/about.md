@@ -21,7 +21,7 @@ I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/
 ======
 - **[2026]** One paper under review at __Photoacoustics__. [Journal](https://www.sciencedirect.com/journal/photoacoustics)
 
-- **[2025]** One abstract accepted for poster presentation to __Optica Biophotonics Congress 2026__, Fort Lauderdale, FL. [Conference](https://www.optica.org/events/congress/biophotonics_congress/submit_papers/)
+- **[2026]** One paper accepted for conference presentation at __Optica Biophotonics Congress 2026__, Fort Lauderdale, FL. [Conference](https://www.optica.org/events/congress/biophotonics_congress/submit_papers/)
 
 - **[2025]** One paper under review at __IEEE Transactions on Image Processing (TIP) 2025__. [Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 
