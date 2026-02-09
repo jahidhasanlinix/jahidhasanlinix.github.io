@@ -85,35 +85,36 @@ Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for S
 
 ---
 
-<ins>Services:</ins>
+<ins>Services & Leadership</ins>
 ======
 
-<span style="color:lightskyblue"> _Journal Reviewer_ </span>
+### 📝 **Journal Reviewer** *(2022–Present)*
 
-- **[2025]** Journal of Biomedical Optics, SPIE
+- **2025** Journal of Biomedical Optics, SPIE
+- **2024** IEEE Open Journal of the Computer Society  
+- **2023** IEEE Transactions on Neural Networks and Learning Systems
+- **2022** IEEE Transactions on Information Forensics & Security
+- **2022** Springer Nature: International Journal of Information Security
 
-- **[2024]** IEEE Open Journal of the Computer Society
-
-- **[2023]** IEEE Transactions on Neural Networks and Learning Systems
-
-- **[2022]** IEEE Transactions on Information Forensics and Security
-
-- **[2022]** Springer Nature: The International Journal of Information Security
-
-
-<span style="color:lightskyblue"> _Leadership Positions_ </span>
-
-- [2022-23] Faculty Senator (elected), Computer Science Graduate Student Organization (CSGSO), Iowa State University
+### 👥 **Leadership Positions**
+- **[2022–2023]** **Faculty Senator (Elected)**  
+  Computer Science Graduate Student Organization (CSGSO), Iowa State University  
+  *Represented graduate student interests at departmental and university levels*
 
 ---
 
-<ins>Media Coverage:</ins>
+<ins>Media & Recognition</ins>
 ======
 
-<span style="color:lightskyblue"> _Entrepreneurs Competition:_ </span>
+### 🏆 **Entrepreneurship Competitions**
+- **[2025]** **AI Services Challenge Finalist**  
+  Univeristy of Iowa John Pappajohn Entrepreneurial Center (JPEC) & AWS  
+  *Selected for technical support valued up to $50,000*
 
-- [2022] Finalist at the International Immigrant Entrepreneurs Summit, Iowa, USA. [WeAreIowa News](https://www.weareiowa.com/article/news/local/entrepreneurs-summit-education-immigrant-business-owners-iowa-des-moines/524-8c350764-4e40-41bd-80e5-2a9f114804aa) and [YouTube](https://www.youtube.com/watch?v=cAgYhMkLVyk)
-
+- **[2022]** **International Immigrant Entrepreneurs Summit Finalist**  
+  Featured in:  
+  • [WeAreIowa News Article](https://www.weareiowa.com/article/news/local/entrepreneurs-summit-education-immigrant-business-owners-iowa-des-moines/524-8c350764-4e40-41bd-80e5-2a9f114804aa)  
+  • [YouTube News Coverage](https://www.youtube.com/watch?v=cAgYhMkLVyk)
 
 
 
