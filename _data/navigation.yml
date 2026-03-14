@@ -15,8 +15,8 @@ main:
   # - title: "Services"
   #   url: /talks/
     
-  - title: "CV"
-    url: /files/cv.pdf
+  # - title: "CV"
+  #   url: /files/cv.pdf
     
   # - title: "Guide"
   #   url: /markdown/
