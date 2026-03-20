@@ -19,13 +19,14 @@ I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/
 
 <ins>Recent News:</ins>
 ======
-- **[2026]** One paper under review at __Photoacoustics__. [Journal](https://www.sciencedirect.com/journal/photoacoustics)
 
 - **[2026]** One paper under review at __Medical Physics__. [Journal](https://aapm.onlinelibrary.wiley.com/journal/24734209)
 
-- **[2026]** One paper accepted for conference presentation at __Optica Biophotonics Congress 2026__, Fort Lauderdale, FL. [Conference](https://www.optica.org/events/congress/biophotonics_congress/submit_papers/)
+- **[2026]** One paper was accepted to __Photoacoustics__. [Journal](https://www.sciencedirect.com/journal/photoacoustics)
 
-- **[2025]** One abstract accepted for poster presentation at __IEEE International Symposium on Biomedical Imaging (ISBI) 2025__, Houston, TX. [Conference](https://www.bilab2012.com/publications)
+- **[2026]** One paper was accepted for conference presentation at __Optica Biophotonics Congress 2026__, Fort Lauderdale, FL. [Conference](https://www.optica.org/events/congress/biophotonics_congress/submit_papers/)
+
+- **[2025]** One abstract was accepted for poster presentation at __IEEE International Symposium on Biomedical Imaging (ISBI) 2025__, Houston, TX. [Conference](https://www.bilab2012.com/publications)
 
 - **[2024]** Joined [BiLab](https://www.bilab2012.com/home) at Iowa State University as a Research Assistant under Dr. Manojit Pramanik (medical ultrasound & photoacoustic imaging)
 
