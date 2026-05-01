@@ -7,9 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-I am Jahid Hasan, a Ph.D. candidate in [Computer Science](https://www.cs.iastate.edu/) at [Iowa State University](https://www.iastate.edu/) (expected Fall 2026), advised by [Dr. Manojit Pramanik](https://www.engineering.iastate.edu/people/profile/mano/) in the [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home). My research develops deep learning and foundation models for computational medical imaging, specializing in sinogram-to-image reconstruction for ultrasound and photoacoustic tomography. Previously, my M.S. thesis developed a high-performance multi-server Oblivious RAM (ORAM) system for secure cloud storage advised by [Dr. Wensheng Zhang](https://www.cs.iastate.edu/people/wensheng-zhang).
+**Jahid Hasan**  
+*Ph.D. Candidate in Computer Science*  
+📍 Iowa State University (expected Fall 2026)
 
-I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/) and [Entrepreneurship](https://www.ivybusiness.iastate.edu/academics/graduate-programs/master-of-entrepreneurship/), an M.Eng. in Information and Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), China, and a B.S. in Electrical and Electronic Engineering from [Atish Dipankar University of Science and Technology](https://www.adust.edu.bd/), Bangladesh.
+🔬 Advised by [Dr. Manojit Pramanik](https://www.engineering.iastate.edu/people/profile/mano/)  
+🏥 [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home)
+
+---
+
+### Research Focus
+
+I develop **deep learning and foundation models** for **computational medical imaging**, focusing on **ultrasound and photoacoustic imaging, sinogram to image reconstruction**, with clinical applications in:
+
+- Breast cancer imaging  
+- Ultrasound-guided needle procedures
+
+---
+
+### Previously
+
+My M.S. thesis developed a high-performance **multi-server Oblivious RAM (ORAM)** system for secure cloud storage, advised by [Dr. Wensheng Zhang](https://www.cs.iastate.edu/people/wensheng-zhang). [Dissertation Link](https://www.proquest.com/openview/486a472e34c34bdb363bc04aedcae1f3/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
+---
+
+### Education
+
+| Degree | Field | University |
+|--------|-------|------------|
+| Ph.D. (candidate) | Computer Science | Iowa State University |
+| M.S. | Computer Science | Iowa State University |
+| M.S. | Entrepreneurship | Iowa State University |
+| M.Eng. | Information & Communication Engineering | Nanjing University of Posts and Telecommunications |
+| B.S. | Electrical & Electronic Engineering | Atish Dipankar University of Science and Technology |
 
 ---
 
@@ -32,8 +62,6 @@ I hold dual Master’s degrees in [Computer Science](https://www.cs.iastate.edu/
 
 - **[2024] 🎓 Final MS Oral Examination**  
 Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for Secure Cloud Storage"*. [Thesis Link](https://www.proquest.com/openview/486a472e34c34bdb363bc04aedcae1f3/1?pq-origsite=gscholar&cbl=18750&diss=y)
-
-- **[2024]** Released open-source package __[NexusFM](https://pypi.org/project/nexusfm/)__ – advanced file manager with GUI & CLI
 
 - **[2024]** Received __Top Teaching Excellence Award__, Department of Computer Science, Iowa State University [Certificate](https://www.parchment.com/u/award/02f11f572a088ec890d9dc1d5bc0c1ac)
 
