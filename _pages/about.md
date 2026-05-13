@@ -18,16 +18,14 @@ redirect_from:
 
 ### Research Focus
 
-I develop **deep learning and foundation models** for **computational medical imaging**, focusing on **ultrasound and photoacoustic imaging, sinogram to image reconstruction**, with clinical applications in:
+My research focuses on **AI in medical imaging** — developing **deep learning and foundation models** for:
 
-- Breast cancer imaging  
-- Ultrasound-guided needle procedures
+- **Ultrasound (US) and photoacoustic (PA) imaging**
+- **Sinogram-to-image reconstruction**
+- **Breast tumor segmentation**
+- **Real-time needle tracking** for interventional guidance
 
----
-
-### Previously
-
-My M.S. thesis developed a high-performance **multi-server Oblivious RAM (ORAM)** system for secure cloud storage, advised by [Dr. Wensheng Zhang](https://www.cs.iastate.edu/people/wensheng-zhang). [Dissertation Link](https://www.proquest.com/openview/486a472e34c34bdb363bc04aedcae1f3/1?pq-origsite=gscholar&cbl=18750&diss=y)
+I am also **exploring** applications of these methods for **cancer imaging and treatment planning** — including quantitative imaging biomarkers and adaptive radiotherapy.
 
 ---
 
@@ -43,7 +41,7 @@ My M.S. thesis developed a high-performance **multi-server Oblivious RAM (ORAM)*
 
 ---
 
-<span style="color:red"> 💼 I am on the academic job market! Feel free to reach out.</span>
+<span style="color:red"> 💼 I am seeking **postdoctoral** and **tenure-track faculty** positions (expected Ph.D. Fall 2026). Open to collaborations and inquiries.</span>
 
 ---
 
@@ -100,17 +98,6 @@ Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for S
 - **Linux Operating System Essentials** (COMS 2520 – Undergraduate level)  
   Teaching Assistant – Fall'21  
   Instructor: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
-
----
-
-<ins>Featured Open-Source Projects:</ins>
-======
-- [**RL Eval Platform**](https://github.com/jahidhasanlinix/buckeye-python) — Open-source RL environment and eval framework for computer use agents.
-- [**LLM - OS Reasoning Model**](https://huggingface.co/jahidhasan/os-reasoning-model) — Operating Systems reasoning model.
-- [**GPT-2 Inference Optimization**](https://github.com/jahidhasanlinix/gpt-2_inference_optimization) — Speeding up GPT-2 inference for production.
-- [**SwarmSync SDK**](https://github.com/jukto-ai/SwarmSync-SDK) — Open-source collaborative AI agent swarms for autonomous task synchronization.
-- [**Refactorize SueNes**](https://github.com/jahidhasanlinix/RefactorizeSueNes) - Document Summarizer via Negative Sampling Using HuggingFace Transformer.
-
 
 ---
 
