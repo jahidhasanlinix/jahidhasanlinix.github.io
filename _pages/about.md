@@ -25,7 +25,7 @@ My research focuses on **AI in medical imaging** — developing **deep learning 
 - **Breast tumor segmentation**
 - **Real-time needle tracking** for interventional guidance
 
-I am also **exploring** applications of these methods for **cancer imaging and treatment planning** — including quantitative imaging biomarkers and adaptive radiotherapy.
+I am also **exploring** applications of these methods for **cancer imaging and treatment planning**.
 
 ---
 
