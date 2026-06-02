@@ -33,7 +33,8 @@ I am also **exploring** applications of these methods for **cancer imaging and t
 
 ---
 
-### Mentored Undergraduate Students
+<ins>Mentored Undergraduate Students:</ins>
+======
 
 - **Vikram Amar** (Electrical Engineering)  
   First-Year Honors Mentor Program (FHMP)
