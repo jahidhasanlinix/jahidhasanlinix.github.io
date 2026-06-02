@@ -29,19 +29,17 @@ I am also **exploring** applications of these methods for **cancer imaging and t
 
 ---
 
-### Education
-
-| Degree | Field | University |
-|--------|-------|------------|
-| Ph.D. (candidate) | Computer Science | Iowa State University |
-| M.S. | Computer Science | Iowa State University |
-| M.S. | Entrepreneurship | Iowa State University |
-| M.Eng. | Information & Communication Engineering | Nanjing University of Posts and Telecommunications |
-| B.S. | Electrical & Electronic Engineering | Atish Dipankar University of Science and Technology |
+<span style="color:red"> 💼 I am seeking **postdoctoral** and **tenure-track faculty** positions (expected Ph.D. Fall 2026). Open to collaborations and inquiries.</span>
 
 ---
 
-<span style="color:red"> 💼 I am seeking **postdoctoral** and **tenure-track faculty** positions (expected Ph.D. Fall 2026). Open to collaborations and inquiries.</span>
+### Mentored Undergraduate Students
+
+- **Vikram Amar** (Electrical Engineering)  
+  First-Year Honors Mentor Program (FHMP)
+
+- **Lexi Plum** (Biomedical Engineering)  
+  First-Year Honors Mentor Program (FHMP)
 
 ---
 
