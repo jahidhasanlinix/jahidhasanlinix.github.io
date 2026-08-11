@@ -77,25 +77,67 @@ Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for S
 <ins>Teaching:</ins>
 ======
 
-- **Introduction to Operating Systems** (COMS 3520 – Undergraduate level)  
-  Teaching Assistant – Spring'26  
+**Iowa State University — Department of Computer Science**
+
+I have served as a Teaching Assistant (and occasional Guest Lecturer) for a variety of undergraduate and graduate operating systems courses. I received the **Department Top Teaching Excellence Award** for my contributions to COMS 3520.
+
+---
+
+### Fall 2027
+
+- **Distributed Systems** (COMS 4540/5540 – Undergrad/Grad)  
+  Instructor: [Dr. Wensheng Zhang](https://www.cs.iastate.edu/wzhang)
+
+- **Introduction to Operating Systems** (COMS 3520 – Undergraduate)  
+  Instructor: [Dr. Meisam Mohammady](https://www.cs.iastate.edu/people/meisam-mohammady) & [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
+
+---
+
+### Spring 2026
+
+- **Introduction to Operating Systems** (COMS 3520 – Undergraduate)  
+  Teaching Assistant  
   Instructor: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
 
-- **Introduction to Operating Systems** (COMS 3520 – Undergraduate level)  
-  Teaching Assistant & Guest Lecturer – Spring'23, Spring'24, Spring'25  
-  Instructor: [Dr. Wensheng Zhang](https://www.cs.iastate.edu/wzhang)  
-  → Received **Department Top Teaching Excellence Award** for this course
+---
 
-- **Introduction to Operating Systems** (COMS 3520 – Undergraduate level)  
-  Teaching Assistant – Spring'22, Fall'22, Fall'24, Fall'25  
+### Fall 2025
+
+- **Introduction to Operating Systems** (COMS 3520 – Undergraduate)  
+  Teaching Assistant  
+  Instructor: [Dr. Meisam Mohammady](https://www.cs.iastate.edu/people/meisam-mohammady)
+
+---
+
+### Spring 2023 – Spring 2026
+
+- **Introduction to Operating Systems** (COMS 3520 – Undergraduate)  
+  Teaching Assistant & Guest Lecturer  
+  Instructor: [Dr. Wensheng Zhang](https://www.cs.iastate.edu/wzhang)  
+  ★ *Received Department Top Teaching Excellence Award*
+
+---
+
+### Fall 2022 – Fall 2025
+
+- **Introduction to Operating Systems** (COMS 3520 – Undergraduate)  
+  Teaching Assistant  
   Instructor: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
 
-- **Principles of Operating Systems** (COMS 5520 – Graduate level)  
-  Teaching Assistant – Fall'24  
+---
+
+### Fall 2024
+
+- **Principles of Operating Systems** (COMS 5520 – Graduate)  
+  Teaching Assistant  
   Instructor: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
 
-- **Linux Operating System Essentials** (COMS 2520 – Undergraduate level)  
-  Teaching Assistant – Fall'21  
+---
+
+### Fall 2021
+
+- **Linux Operating System Essentials** (COMS 2520 – Undergraduate)  
+  Teaching Assistant  
   Instructor: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
 
 ---
