@@ -42,6 +42,8 @@ More recently, I've extended this work into Radiation Oncology, focusing on Dosi
 <ins>Recent News:</ins>
 ======
 
+- **[2026]** One paper under review at __Physics in Medicine & Biology__. [Journal](https://iopscience.iop.org/journal/0031-9155)
+
 - **[2026]** One paper under review at __Medical Physics__. [Journal](https://aapm.onlinelibrary.wiley.com/journal/24734209)
 
 - **[2026]** One paper was accepted to __Photoacoustics__. [Journal](https://www.sciencedirect.com/journal/photoacoustics)
