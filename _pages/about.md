@@ -18,14 +18,9 @@ redirect_from:
 
 ### Research Focus
 
-My research focuses on **AI in medical imaging** — developing **deep learning and foundation models** for:
+My research develops deep learning and foundation models for Ultrasound (US) and Photoacoustic (PA) imaging, sinogram-to-image reconstruction, breast tumor segmentation, and real-time needle tracking for interventional guidance.
 
-- **Ultrasound (US) and photoacoustic (PA) imaging**
-- **Sinogram-to-image reconstruction**
-- **Breast tumor segmentation**
-- **Real-time needle tracking** for interventional guidance
-
-I am also **exploring** applications of these methods for **cancer imaging and treatment planning**.
+More recently, I've extended this work into Radiation Oncology, focusing on Dosimetry and dose planning, Brachytherapy for Prostate Cancer, and the use of photon and proton CT/MRI data to improve treatment planning.
 
 ---
 
