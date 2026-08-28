@@ -16,7 +16,7 @@ redirect_from:
 
 ---
 
-Jahid Hasan research focuses on artificial intelligence (AI) for medical imaging and radiation oncology. In interventional ultrasound, low contrast are often harder to see by human clinicians to read and annotate, and manual labeling by human experts is too slow for real-time guidance. Hasan develops **deep learning and foundation models** for **image and video segmentation** that track needles and segment breast tumors directly from degraded ultrasound data. He uses **photoacoustic supervision** as an alternate approach to generate automated ground truth, eliminating human expert manual annotation dependency.
+Jahid Hasan's research focuses artificial intelligence (AI) for medical imaging and radiation oncology. In interventional ultrasound, low contrast are often harder to see by human clinicians to read and annotate, and manual labeling by human experts is too slow for real-time guidance. Hasan develops **deep learning and foundation models** for **image and video segmentation** that track needles and segment breast tumors directly from degraded ultrasound data. He uses **photoacoustic supervision** as an alternate approach to generate automated ground truth, eliminating human expert manual annotation dependency.
 
 While for photoacoustic computed tomography (PACT), conventional reconstruction relies on handcrafted analytical steps that are slow and sensitive to noise. Hasan generated **200K synthetic sinogram-to-image pairs** across seven imaging settings, including blood vessels, brain anatomy, and Derenzo phantoms to train a **foundation model that learns a direct mapping from raw sensor data (sinogram) to reconstructed images**, removing the need for conventional reconstruction entirely.
 
