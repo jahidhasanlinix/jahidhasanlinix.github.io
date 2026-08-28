@@ -16,11 +16,15 @@ redirect_from:
 
 ---
 
-### Research Focus
+Jahid Hasan research focuses on artificial intelligence (AI) for medical imaging and radiation oncology. In interventional ultrasound, low contrast are often harder to see by human clinicians to read and annotate, and manual labeling by human experts is too slow for real-time guidance. Hasan develops **deep learning and foundation models** for **image and video segmentation** that track needles and segment breast tumors directly from degraded ultrasound data. He uses **photoacoustic supervision** as an alternate approach to generate automated ground truth, eliminating human expert manual annotation dependency.
 
-My research develops deep learning and foundation models for Ultrasound (US) and Photoacoustic (PA) imaging, sinogram-to-image reconstruction, breast tumor segmentation, and real-time needle tracking for interventional guidance.
+While for photoacoustic computed tomography (PACT), conventional reconstruction relies on handcrafted analytical steps that are slow and sensitive to noise. Hasan generated **200K synthetic sinogram-to-image pairs** across seven imaging settings, including blood vessels, brain anatomy, and Derenzo phantoms to train a **foundation model that learns a direct mapping from raw sensor data (sinogram) to reconstructed images**, removing the need for conventional reconstruction entirely.
 
-More recently, I've extended this work into Radiation Oncology, focusing on Dosimetry and dose planning, Brachytherapy for Prostate Cancer, and the use of photon and proton CT/MRI data to improve treatment planning.
+Hasan has extended this work into **radiation oncology**, where treatment planning still depends on time-consuming manual dose calculation and optimization. He develops AI methods for **automated dose calculation** and **treatment planning**, leveraging **Monte Carlo simulated ground truth** and **CT/MRI paired photon/proton imaging** to improve precision.
+
+> *"The art of cancer treatment is in finding the right balance between tumor cure and injury to normal tissue."*
+
+He collaborates with the **Winship Cancer Institute at Emory University** to bring these tools into clinical practice.
 
 ---
 
@@ -43,6 +47,8 @@ More recently, I've extended this work into Radiation Oncology, focusing on Dosi
 ======
 
 - **[2026]** One paper under review at __Physics in Medicine & Biology__. [Journal](https://iopscience.iop.org/journal/0031-9155)
+
+- **[2026]** Submitted a proposal to __NASA: Foundational Artificial Intelligence for the Moon and Mars__ (FAIMM). [Link](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b6F6D173C-46CD-003B-26EF-EFA39D4004A4%7d&path=&method=init)
 
 - **[2026]** One paper under review at __Medical Physics__. [Journal](https://aapm.onlinelibrary.wiley.com/journal/24734209)
 
@@ -76,66 +82,15 @@ Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for S
 
 **Iowa State University — Department of Computer Science**
 
-I have served as a Teaching Assistant (and occasional Guest Lecturer) for a variety of undergraduate and graduate operating systems courses. I received the **Department Top Teaching Excellence Award** for my contributions to COMS 3520.
-
----
-
-### Fall 2027
-
-- **Distributed Systems** (COMS 4540/5540 – Undergrad/Grad)  
-  Instructor: [Dr. Wensheng Zhang](https://www.cs.iastate.edu/wzhang)
-
-- **Introduction to Operating Systems** (COMS 3520 – Undergraduate)  
-  Instructor: [Dr. Meisam Mohammady](https://www.cs.iastate.edu/people/meisam-mohammady) & [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
-
----
-
-### Spring 2026
-
-- **Introduction to Operating Systems** (COMS 3520 – Undergraduate)  
-  Teaching Assistant  
-  Instructor: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
-
----
-
-### Fall 2025
-
-- **Introduction to Operating Systems** (COMS 3520 – Undergraduate)  
-  Teaching Assistant  
-  Instructor: [Dr. Meisam Mohammady](https://www.cs.iastate.edu/people/meisam-mohammady)
-
----
-
-### Spring 2023 – Spring 2026
-
-- **Introduction to Operating Systems** (COMS 3520 – Undergraduate)  
-  Teaching Assistant & Guest Lecturer  
-  Instructor: [Dr. Wensheng Zhang](https://www.cs.iastate.edu/wzhang)  
-  ★ *Received Department Top Teaching Excellence Award*
-
----
-
-### Fall 2022 – Fall 2025
-
-- **Introduction to Operating Systems** (COMS 3520 – Undergraduate)  
-  Teaching Assistant  
-  Instructor: [Dr. Matthew Tancreti](https://faculty.sites.iastate.edu/tancreti/)
-
----
-
-### Fall 2024
-
-- **Principles of Operating Systems** (COMS 5520 – Graduate)  
-  Teaching Assistant  
-  Instructor: [Dr. Chenglin Miao](https://www.cs.iastate.edu/people/chenglin-miao)
-
----
-
-### Fall 2021
-
-- **Linux Operating System Essentials** (COMS 2520 – Undergraduate)  
-  Teaching Assistant  
-  Instructor: [Dr. Andrew Miner](https://www.cs.iastate.edu/asminer)
+- **Fall 2027** — Distributed Systems (COMS 4540/5540), TA · Dr. Wensheng Zhang  
+  Introduction to Operating Systems (COMS 3520), TA · Drs. Mohammady & Tancreti
+- **Spring 2026** — Introduction to Operating Systems (COMS 3520), TA · Dr. Chenglin Miao
+- **Fall 2025** — Introduction to Operating Systems (COMS 3520), TA · Dr. Meisam Mohammady
+- **Spring 2023 – Spring 2026** — Introduction to Operating Systems (COMS 3520), TA & Guest Lecturer · Dr. Wensheng Zhang  
+  ★ *Department Top Teaching Excellence Award*
+- **Fall 2022 – Fall 2025** — Introduction to Operating Systems (COMS 3520), TA · Dr. Matthew Tancreti
+- **Fall 2024** — Principles of Operating Systems (COMS 5520), TA · Dr. Chenglin Miao
+- **Fall 2021** — Linux Operating System Essentials (COMS 2520), TA · Dr. Andrew Miner
 
 ---
 
