@@ -82,13 +82,13 @@ Successfully defended my M.S. thesis *"Multi-Server Oblivious RAM Approach for S
 
 **Iowa State University — Department of Computer Science**
 
-- **Fall 2027** — Distributed Systems (COMS 4540/5540), TA · Dr. Wensheng Zhang  
-  Introduction to Operating Systems (COMS 3520), TA · Drs. Mohammady & Tancreti
-- **Spring 2026** — Introduction to Operating Systems (COMS 3520), TA · Dr. Chenglin Miao
-- **Fall 2025** — Introduction to Operating Systems (COMS 3520), TA · Dr. Meisam Mohammady
-- **Spring 2023 – Spring 2026** — Introduction to Operating Systems (COMS 3520), TA & Guest Lecturer · Dr. Wensheng Zhang  
-  ★ *Department Top Teaching Excellence Award*
-- **Fall 2022 – Fall 2025** — Introduction to Operating Systems (COMS 3520), TA · Dr. Matthew Tancreti
+- **Fall 2026** — Distributed Systems (COMS 4540/5540), TA · Dr. Wensheng Zhang
+- **Introduction to Operating Systems (COMS 3520)**
+  - **Spring 2023 – Spring 2026** — TA & Guest Lecturer · Dr. Wensheng Zhang — ★ *Department Top Teaching Excellence Award*
+  - **Fall 2022 – Fall 2025** — TA · Dr. Matthew Tancreti
+  - **Fall 2025** — TA · Dr. Meisam Mohammady
+  - **Spring 2026** — TA · Dr. Chenglin Miao
+  - **Fall 2026** — TA · Drs. Meisam Mohammady & Matthew Tancreti
 - **Fall 2024** — Principles of Operating Systems (COMS 5520), TA · Dr. Chenglin Miao
 - **Fall 2021** — Linux Operating System Essentials (COMS 2520), TA · Dr. Andrew Miner
 
