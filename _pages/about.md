@@ -9,7 +9,7 @@ redirect_from:
 
 **Jahid Hasan**  
 *Ph.D. Candidate in Computer Science*  
-📍 Iowa State University (expected Fall 2026)
+📍 Iowa State University (expected Spring 2027)
 
 🔬 Advised by [Dr. Manojit Pramanik](https://www.engineering.iastate.edu/people/profile/mano/)  
 🏥 [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home)
@@ -28,7 +28,7 @@ He collaborates with the **Winship Cancer Institute at Emory University** to bri
 
 ---
 
-<span style="color:red"> 💼 I am seeking **postdoctoral** and **tenure-track faculty** positions (expected Ph.D. Fall 2026). Open to collaborations and inquiries.</span>
+<span style="color:red"> 💼 I am seeking **postdoctoral** and **tenure-track faculty** positions. Open to collaborations and inquiries.</span>
 
 ---
 
