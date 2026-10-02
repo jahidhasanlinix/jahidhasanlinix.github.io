@@ -9,7 +9,7 @@ redirect_from:
 
 **Jahid Hasan**  
 *Ph.D. Candidate in Computer Science*  
-📍 Iowa State University (expected Spring 2027)
+📍 Iowa State University (expected Fall 2026)
 
 🔬 Advised by [Dr. Manojit Pramanik](https://www.engineering.iastate.edu/people/profile/mano/)  
 🏥 [Biomedical Imaging Laboratory (BILab)](https://www.bilab2012.com/home)
