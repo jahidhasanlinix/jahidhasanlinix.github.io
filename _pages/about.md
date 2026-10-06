@@ -46,6 +46,8 @@ He collaborates with the **Winship Cancer Institute at Emory University** to bri
 <ins>Recent News:</ins>
 ======
 
+- **[2026]** Awarded **2nd among 89 teams** in a 90-second pitch competition at the __ISU JPEC Fall Startup Pitch Competition__, Iowa State University Pappajohn Center for Entrepreneurship. [Link](https://entrepreneurship.iastate.edu/)
+
 - **[2026]** One paper under review at __Physics in Medicine & Biology__. [Journal](https://iopscience.iop.org/journal/0031-9155)
 
 - **[2026]** Submitted a proposal to __NASA: Foundational Artificial Intelligence for the Moon and Mars__ (FAIMM). [Link](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b6F6D173C-46CD-003B-26EF-EFA39D4004A4%7d&path=&method=init)
